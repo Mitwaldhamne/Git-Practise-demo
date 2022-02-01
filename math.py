@@ -1,15 +1,13 @@
 #This is beautiful
-#For Bug456
-def add(x,y):#new add
+#Add
+def add(x,y):
     pass
-#For master
-def sub(x,y):#new sub
+#Sub
+def sub(x,y):
     pass
-#For rebasing master
-def multiply(x,y):#new mul
+#Multiply
+def multiply(x,y):
     pass
-#For rebasing Bug
-def divide(x,y):#new div
+#Divide
+def divide(x,y):
     return x/y
-#HAHaHa for Rebasing Bug
-##Stashing 
